@@ -1,0 +1,29 @@
+_repo: The-High-Heart_35463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Young women -- Fiction'
+title: The High Heart
+url: http://www.gutenberg.org/ebooks/35463
